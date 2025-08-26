@@ -49,7 +49,7 @@ int main()
     printf("area: %.0f\n", Area_2);
     printf("PIB: %.0f\n", PIB_2);
     printf("Pontos turisticos: %d\n", Pontos_turisticos2);
-    printf("Novo comit\n");
+    printf("Novo commt\n");
 
 
     return 0;
